@@ -60,6 +60,7 @@ O sistema foi criado para otimizar o **controle de entrega de documentos físico
 > ⚠️ Versão com dados fictícios e restrição de edição.
 
 🔗 [Clique aqui para acessar o app (modo visualização)](https://www.appsheet.com/start/4df444b9-300c-40b5-acb4-d09118031a03) (Versão Navegador)
+
 🔗 [Clique aqui para acessar o app (modo visualização)](https://www.appsheet.com/newshortcut/4df444b9-300c-40b5-acb4-d09118031a03) (Versão Mobile)
 
 ---
